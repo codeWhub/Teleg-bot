@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "bybit-api": "^3.10.3",
+    "grammy": "^1.23.0"
+  },
+  "name": "crypto_tel.bot",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "This bot will help you trade, buy, sell coins in Telegram bot which connect wit ByBit",
+  "main": "App.js",
+  "scripts": {
+    "test": "node App.js"
+  },
+  "author": "Walid",
+  "license": "ISC"
+}
